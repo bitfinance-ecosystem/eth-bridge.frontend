@@ -1,4 +1,4 @@
-#BitFinance ETH Bridge Frontend
+# BitFinance ETH Bridge Frontend
 Ethereum<>Harmony<>BitFinance two way bridge (trusted version)
 
 
