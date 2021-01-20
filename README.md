@@ -1,5 +1,5 @@
-# harmony eth bridge frontend
-Ethereum<>Harmony two way bridge (trusted version)
+# BitFinance Bridge Frontend
+Ethereum<>Harmony<>BitFinance two way bridge
 
 
 
@@ -14,7 +14,7 @@ Ethereum<>Harmony two way bridge (trusted version)
 * Fetch repo 
 
 ```
-git clone git@github.com:harmony-one/ethhmy-bridge.frontend.git
+git clone git@github.com:bitfinance/eth-bridge.frontend.git
 ```
 
 * Install dependencies
@@ -58,12 +58,12 @@ The build artificats will be in artifacts/build folder.
 The frontend will be started in http://localhost:8080
 
 ## push to docker hub
-You need to have permission to push to the harmonyone repo.
+You need to have permission to push to the bitfinance bridge repo.
 
 ```bash
 sudo docker login
-sudo docker tag ethhmy-fe-web harmonyone/ethhmy-fe-web:latest
-sudo docker push harmonyone/ethhmy-fe-web
+sudo docker tag eth-fe-web bitfinance/ethhmy-fe-web:latest
+sudo docker push bitfinance/eth-fe-web
 ```
 
 You may also push to difference release version other than just `latest`.
