@@ -1,5 +1,5 @@
-# harmony eth bridge frontend
-Ethereum<>Harmony two way bridge (trusted version)
+#BitFinance ETH Bridge Frontend
+Ethereum<>Harmony<>BitFinance two way bridge (trusted version)
 
 
 
@@ -14,7 +14,7 @@ Ethereum<>Harmony two way bridge (trusted version)
 * Fetch repo 
 
 ```
-git clone git@github.com:harmony-one/ethhmy-bridge.frontend.git
+git clone git@github.com:bitfinance-ecosystem/eth-bridge.frontend.git
 ```
 
 * Install dependencies
